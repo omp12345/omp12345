@@ -23,14 +23,14 @@ A passionate full stack web developer from India
  🤔 Check Out my <a href="">Resume</a><br><br>
  📫  Know more about me <a href="">Portfolio</a><br><br>
  😄 All of my projects are available at
-<a href="https://github.com/waseem49">My Github Repositories</a><br><br>
+<a href="https://github.com/omp12345?tab=repositories">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br><br>
- ⚡ How to reach me mdwaseem0603@gmail.com
+ ⚡ How to reach me opsgp1999@gmail.com
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📱 Connect With Me </h2>
 <br />
 <p align="center">
-<a href="https://www.linkedin.com/in/md-waseem-akram-a8344b235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omprakash-mishra-a00686148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain" height="30" width="40" /></a>
 </p>
 <br />
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
@@ -80,7 +80,7 @@ A passionate full stack web developer from India
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Statastics </h2>
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=waseem49&theme=github-dark"
+<img src="https://streak-stats.demolab.com?user=omp12345&theme=github-dark"
        alt="stats" /></a>
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
