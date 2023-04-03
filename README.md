@@ -80,10 +80,21 @@ A passionate full stack web developer from India
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Statastics </h2>
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=omp12345&theme=github-dark"
-       alt="stats" /></a>
-</div>
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+ 
+ <img src="https://github-readme-stats.vercel.app/api?username=omp12345&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Om Prakash Mishra" />
+ 
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omp12345&lans-count=4" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omp12345&show_icons=true&locale=en" /></p> -->
+<img src="https://streak-stats.demolab.com/?user=omp12345&theme=github-dark"
+    alt="stats" /></a>
+ 
+
+</div >
+ 
+ <div align="center">
  <h2> ✍️ Random Dev Quote </h2>
  <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/> 
+ </div>
+ 
 </div>
+ <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
