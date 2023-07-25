@@ -82,6 +82,7 @@ A passionate full-stack web developer from India
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=masum-raja&label=Profile%20views&color=0e75b6&style=flat" alt="navneet123" /> </p>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Statastics </h2>
+<img src="https://camo.githubusercontent.com/85754f373d83bff90ec8ae5379751cafae3cebb5eaabfcd0f1eb0de68a0b7b2d/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f336f69614c613133475565685462674466732f67697068792e676966">
 <div align="center">
  
  <img src="https://github-readme-stats.vercel.app/api?username=omp12345&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Om Prakash Mishra" />
