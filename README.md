@@ -9,13 +9,16 @@ Hi 👋, I am Om Prakash Mishra
 </h2>
 <hr>
 <h2 align="center">
-A passionate full stack web developer from India
+A passionate full-stack web developer from India
 </h2>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+Om+Prakash+Mishra.;I+am+a+Full-stack+Web+developer.;Interested+with+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a>
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
 <div>
+<div>
+ <img   src="https://camo.githubusercontent.com/435acb63a15fbe2f9f56986a7b0e66d4f06abd739d04e9abb0192ecb125cae01/68747470733a2f2f696d67732e7365617263682e62726176652e636f6d2f47495a56706e7444386e4267686e31724958376b32667569754e525661763841565a3838642d4d506e76672f72733a6669743a313230303a3637353a312f673a63652f6148523063484d364c793933643363752f596d466a5957356a6558526c593268752f623278765a336b75593239744c326c742f5a7939745a584a754c576c745a334d762f596d4675626d56794d533571634763"/>
+</div>
 <h2 align="center">💫  About Me </h2>
  🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
